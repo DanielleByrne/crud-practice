@@ -58,6 +58,6 @@ class DOMManager {
   }
 
   static render(houses){
-      
+      //dfgkjdfklgjkdfl
   }
 }
